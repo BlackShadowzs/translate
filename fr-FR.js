@@ -1,10 +1,10 @@
 export default {
   auth: {
-    login: 'Sign In',
-    register: 'Sign Up',
+    login: 'Se Connecter',
+    register: 'S'enregistrer',
   },
   nav: {
-    home: 'Home',
+    home: 'Menu',
   },
   followUs: 'Follow eXitus On',
   footer: {
@@ -13,60 +13,60 @@ export default {
         title: 'Hub',
       },
       store: {
-        title: 'Store',
+        title: 'Magasin',
       },
       more: {
-        title: 'More',
+        title: 'Plus',
       },
       social: {
         title: 'Social',
       },
       help: {
-        title: 'Help',
+        title: 'Aide',
         contact: 'Contact',
       },
     },
     copyright: 'All rights reserved.',
-    created: 'Created with {heart} in Germany',
-    privacy: 'Privacy Policy',
-    terms: 'Terms & Conditions',
+    created: 'Crée avec le {heart} en Allemagne',
+    privacy: 'Politique de confidentialité',
+    terms: 'Termes et conditions',
     imprint: 'Imprint',
   },
   pre: {
-    headline: 'We are getting ready',
-    sub: 'Subscribe to know more about the first release of eXitus.',
-    signUpEA: 'Sign up for early access',
-    followUs: 'Follow us',
+    headline: 'Nous nous préparons',
+    sub: 'Abonnez vous pour en savoir plus sur le lancement de Exitus.',
+    signUpEA: 'Enregistrez vous pour un accés anticipé',
+    followUs: 'Suivez nous',
     features: {
       ghosts: {
-        title: 'Ghosts',
-        text: 'You have collected Ghosts through our service? You can exchange them for hardware, games or in-game items soon! So don\'t stop making challenges, it will be worth it!',
+        title: 'Fantômes',
+        text: 'Vous avez collecter des fantômes avec nos services? Vous pouvez les echanger pour du materiel, des jeux ou des items en jeux! Alors continuez a faires des challenges, ça vaut le coup!',
       },
       challenges: {
         title: 'Challenges',
-        text: 'Get Ghosts through our new Challenge System. Get new challenges, missions or co-op challenges every day. Or at events with a time limit.',
+        text: 'Obtenez des fantômes en faisant des challenges. Obtenez des nouveaux challenges, missions et challenges co-op tout les jours. Ou lors d'évenements pour un temps limite',
       },
       store: {
-        title: 'Store',
-        text: 'Buy premium, games, hardware and in-game items through our store. Pay with Our Ghosts or support our community and pay with one of our many payment providers.',
+        title: 'Magasin',
+        text: 'Achetez des jeux premiums, materiel ou des items en jeux avec notre magasin. payez avec les fantômes ou supportez la communautée et payez avec l'un de nos nombreux moyens de paiements .',
       },
       hubs: {
         title: 'Hubs',
-        text: 'Our hub system offers you many opportunities to work with our community. There is an area for maps, textures, ideas or questions and much more.',
+        text: 'Notre systéme de hub vous offre plusieurs opportunités de travailler avec notre communautée. Il y a une zone pour les maps, textures,idées et questions et plus encore.',
       },
     },
   },
   countdown: {
-    days: 'Days',
-    day: 'Day',
-    hours: 'Hours',
-    hour: 'Hour',
+    days: 'Jours',
+    day: 'Jour',
+    hours: 'Heures',
+    hour: 'Heure',
     minutes: 'Minutes',
     minute: 'Minute',
-    seconds: 'Seconds',
-    second: 'Second',
+    seconds: 'Secondes',
+    second: 'Seconde',
   },
   country: {
-    germany: 'Germany',
+    germany: 'Allemagne',
   },
 }
